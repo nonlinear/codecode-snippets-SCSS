@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+@include except(${1:mac|linux|safari|etc})
+  ${2:rules here. needs modernizr to operate.}
+]]>
+  </content>
+  <tabTrigger>except</tabTrigger>
+  <description>except SCSS mixin</description>
+</snippet>

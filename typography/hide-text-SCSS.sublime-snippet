@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+@include hide-text
+]]>
+  </content>
+  <tabTrigger>hide-text</tabTrigger>
+  <source>source.scss</source>
+  <description>hide-text SCSS mixin</description>
+</snippet>

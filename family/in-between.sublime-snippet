@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include in-between($1, $2)
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>in-between items</description>
+</snippet>

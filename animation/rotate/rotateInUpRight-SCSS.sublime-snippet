@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include rotateInUpRight
+]]>
+  </content>
+  <tabTrigger>rotateInUpRight</tabTrigger>
+  <description>rotateInUpRight SCSS animation</description>
+</snippet>

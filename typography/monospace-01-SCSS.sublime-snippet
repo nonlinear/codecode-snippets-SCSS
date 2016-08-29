@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+‘Courier New’, Courier, monospace
+]]>
+  </content>
+  <tabTrigger>monospace</tabTrigger>
+  <source>source.scss</source>
+  <description>Courier New web font, SCSS</description>
+</snippet>

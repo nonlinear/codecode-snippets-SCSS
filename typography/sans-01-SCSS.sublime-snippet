@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+'Century Gothic', CenturyGothic, AppleGothic, sans-serif
+]]>
+  </content>
+  <tabTrigger>sans</tabTrigger>
+  <source>source.scss</source>
+  <description>Century Gothic web font, SCSS</description>
+</snippet>

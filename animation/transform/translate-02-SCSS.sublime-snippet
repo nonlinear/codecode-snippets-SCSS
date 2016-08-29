@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include translate(${1:x}, ${2:y}, ${3:z}, 3d)
+]]>
+  </content>
+  <tabTrigger>translate</tabTrigger>
+  <description>translate 3D SCSS transform</description>
+</snippet>

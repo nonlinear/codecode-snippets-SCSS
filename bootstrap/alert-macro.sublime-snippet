@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{% import "macros/alert.html" as alert %}
+{{ alert.alert(class="${1:info|success|warning|danger}", text="${2:content}", close="${3:true}") }}
+
+]]></content>
+  <tabTrigger>alert</tabTrigger>
+  <description>alert bootstrap macro</description>
+</snippet>

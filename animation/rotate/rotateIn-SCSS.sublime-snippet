@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include rotateIn
+]]>
+  </content>
+  <tabTrigger>rotateIn</tabTrigger>
+  <description>rotateIn SCSS animation</description>
+</snippet>

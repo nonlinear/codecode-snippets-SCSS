@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include hingeRight
+]]>
+  </content>
+  <tabTrigger>hingeRight</tabTrigger>
+  <description>hingeRight SCSS animation</description>
+</snippet>

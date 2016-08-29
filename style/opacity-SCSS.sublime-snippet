@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+@include opacity(${1:40})
+]]>
+  </content>
+  <tabTrigger>opacity</tabTrigger>
+  <source>source.scss</source>
+  <description>opacity SCSS mixin</description>
+</snippet>

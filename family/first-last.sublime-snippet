@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include first-last
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>first-last items</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include bounceOutLeft
+]]>
+  </content>
+  <tabTrigger>bounceOutLeft</tabTrigger>
+  <description>bounceOutLeft SCSS animation</description>
+</snippet>

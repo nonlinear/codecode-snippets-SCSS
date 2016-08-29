@@ -1,0 +1,9 @@
+<snippet>
+	<content>
+<![CDATA[
+@include scroll-hint(${1:background color})
+]]>
+	</content>
+	<tabTrigger>scroll-hint</tabTrigger>
+	<description>scroll hint SCSS rules</description>
+</snippet>

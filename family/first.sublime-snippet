@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include first($1)
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>first items</description>
+</snippet>

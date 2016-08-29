@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include pulse
+]]>
+  </content>
+  <tabTrigger>pulse</tabTrigger>
+  <description>pulse SCSS animation</description>
+</snippet>

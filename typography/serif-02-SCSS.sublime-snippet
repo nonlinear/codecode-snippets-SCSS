@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+Georgia, Serif
+]]>
+  </content>
+  <tabTrigger>serif</tabTrigger>
+  <source>source.scss</source>
+  <description>Georgia web font, SCSS</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+@include radius(${1:normal|custom}, ${2:5px}, ${3:5px}, ${4:5px}, ${5:5px})
+]]>
+  </content>
+  <tabTrigger>radius</tabTrigger>
+  <source>source.scss</source>
+  <description>radius SCSS mixin</description>
+</snippet>

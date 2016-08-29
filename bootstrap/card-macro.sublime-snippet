@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+{% import "macros/card.html" as card %}
+{{ card.card(image="${1:image path}", title="${2:title}", text="${3:text}", btnText="button text") }}
+]]></content>
+  <tabTrigger>card</tabTrigger>
+  <description>card bootstrap macro</description>
+</snippet>

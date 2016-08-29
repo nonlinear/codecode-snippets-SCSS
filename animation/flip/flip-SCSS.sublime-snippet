@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include flip
+]]>
+  </content>
+  <tabTrigger>flip</tabTrigger>
+  <description>flip SCSS animation</description>
+</snippet>

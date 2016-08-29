@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include flipInY
+]]>
+  </content>
+  <tabTrigger>flipInY</tabTrigger>
+  <description>flipInY SCSS animation</description>
+</snippet>

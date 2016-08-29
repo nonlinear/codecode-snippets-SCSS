@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include at-least($1)
+]]>
+  </content>
+  <tabTrigger>family</tabTrigger>
+  <description>at-least items</description>
+</snippet>

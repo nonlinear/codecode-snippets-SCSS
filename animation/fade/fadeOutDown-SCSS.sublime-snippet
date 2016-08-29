@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include fadeOutDown
+]]>
+  </content>
+  <tabTrigger>fadeOutDown</tabTrigger>
+  <description>fadeOutDown SCSS animation</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content>
+<![CDATA[
+@include find(${1:red})
+]]>
+  </content>
+  <tabTrigger>find</tabTrigger>
+  <source>source.scss</source>
+  <description>find SCSS mixin</description>
+</snippet>

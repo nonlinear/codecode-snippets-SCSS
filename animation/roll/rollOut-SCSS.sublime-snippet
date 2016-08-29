@@ -1,0 +1,9 @@
+<snippet>
+  <content>
+<![CDATA[
+@include rollOut
+]]>
+  </content>
+  <tabTrigger>rollOut</tabTrigger>
+  <description>rollOut SCSS animation</description>
+</snippet>
